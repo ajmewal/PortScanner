@@ -14,7 +14,7 @@
     <a href="https://github.com/ajmewal/PortScanner/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/ajmewal/PortScanner?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
     </a>
-    <a href="https://github.com/TeamMetaxone/Cyberonix">
+    <a href="https://github.com/ajmewal/PortScanner">
         <img alt="Repo Size" src="https://img.shields.io/github/repo-size/ajmewal/PortScanner?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
     </a>
     <a href="https://twitter.com/intent/follow?screen_name=ajmewal">
