@@ -76,4 +76,4 @@ options:
 ``` 
 # Development by
 
-Developer / Author: [ajmewal](https://github.com/ajmewal)
+<a href="https://github.com/ajmewal"><img src="https://avatars.githubusercontent.com/u/82837448?v=4" width="70px" hight="70px"></a>
