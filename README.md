@@ -29,12 +29,14 @@
 
 **[<kbd> <br> Install <br> </kbd>][Install]**  
 **[<kbd> <br> Usage <br> </kbd>][Usage]** 
+**[<kbd> <br> Developer <br> </kbd>][Developer]** 
 
 
 ---
 
 [Install]: #Installation
 [Usage]: #Usage
+[Developer]: #Developer
 
 </div>
 
@@ -74,6 +76,6 @@ options:
   -T THREADS, --threads THREADS
                         To Specify the threads
 ``` 
-# Development by
+# Developer
 
 <a href="https://github.com/ajmewal"><img src="https://avatars.githubusercontent.com/u/82837448?v=4" width="70px" hight="70px"></a>
