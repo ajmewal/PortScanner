@@ -44,7 +44,7 @@
 # Installation
 
 ```bash
-git https://github.com/ajmewal/PortScanner.git
+git clone https://github.com/ajmewal/PortScanner.git
 cd PortScanner
 python3 Port_scaner.py
 ```
